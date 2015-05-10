@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=jobs
+Exec=urxvt -geometry 160x50 -cd /home/ylecuyer/scrappers -e ./all.sh
+Terminal=true
