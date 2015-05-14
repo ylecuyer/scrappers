@@ -8,6 +8,8 @@ echo $(tput setaf 3) #yellow
 python ./goalsystems.py
 echo $(tput setaf 5) #pink
 python ./coordinationsud.py
+echo $(tput setaf 6) #blue
+python ./asalf.py
 
 echo $(tput sgr0) #reset
 
